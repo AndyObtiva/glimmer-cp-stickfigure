@@ -71,7 +71,7 @@ glimmer samples
 [Glimmer GUI DSL](https://github.com/AndyObtiva/glimmer-dsl-swt/blob/master/docs/reference/GLIMMER_GUI_DSL_SYNTAX.md#glimmer-gui-dsl-syntax) code (from [samples/stick_figure/hello_stick_figure.rb](/samples/stick_figure/hello_stick_figure.rb)):
 
 ```ruby
-require_relative '../../lib/glimmer-cp-stickfigure'
+require_relative '../../lib/glimmer-cp-stickfigure' # Note: require gem directly if installed
 
 class HelloStickFigure
   include Glimmer::UI::CustomShell
