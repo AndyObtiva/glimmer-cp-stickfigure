@@ -22,7 +22,7 @@ Juwelier::Tasks.new do |gem|
   gem.email = "andy.am@gmail.com"
   gem.authors = ["Andy Maleh"]
 
-  gem.files = Dir['glimmer-cp-stickfigure.gemspec', 'README.md', 'VERSION', 'LICENSE.txt', 'lib/**/*', 'samples/**/*']
+  gem.files = Dir['glimmer-cp-stickfigure.gemspec', 'CHANGELOG.md', 'README.md', 'VERSION', 'LICENSE.txt', 'lib/**/*', 'samples/**/*']
   # dependencies defined in Gemfile
 end
 Juwelier::RubygemsDotOrgTasks.new

@@ -1,4 +1,4 @@
-# Stick Figure 0.1.0
+# Stick Figure 0.1.1
 ## [<img src="https://raw.githubusercontent.com/AndyObtiva/glimmer/master/images/glimmer-logo-hi-res.png" height=40 /> Glimmer Custom Shape](https://github.com/AndyObtiva/glimmer-dsl-swt/docs/reference/GLIMMER_COMMAND.md#custom-shape-gem)
 [![Gem Version](https://badge.fury.io/rb/glimmer-cp-stickfigure.svg)](http://badge.fury.io/rb/glimmer-cp-stickfigure)
 
@@ -22,7 +22,7 @@ It is used in [DCR](https://github.com/AndyObtiva/dcr) (Draw Color Repeat).
 
 Add the follwing to `Gemfile`:
 ```ruby
-gem 'glimmer-cp-stickfigure', '~> 0.1.0'
+gem 'glimmer-cp-stickfigure', '~> 0.1.1'
 ```
 
 Run `bundle install` or `bundle`:
